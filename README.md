@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-I'm Giselle, a software developer, musician, and graduating student in Software Engineering at Concordia University in Montreal. 
+I'm Giselle, a software developer, musician, and graduating student in Software Engineering at Concordia University in Montreal! Here you will find my collection of personal, academic, and collaborative open-source projects :-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: 
+- 🌱 I’m currently learning: JUCE, digital signal processing, and machine learning
+- 📫 How to reach me: https://www.linkedin.com/in/gisellemartel
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
--->
